@@ -7,10 +7,10 @@
 
 ## 🆕 Novinky 1/2023
 - 🆘 § 96 **Za každú hodinu neaktívnej časti pracovnej pohotovosti mimo pracoviska** patrí zamestnancovi náhrada n**ajmenej 20 % minimálnej mzdy v eurách za hodinu** podľa osobitného predpisu 
-- § 🛒 122a **Mzdové zvýhodnenie za prácu v sobotu **
+- 🛒 § 122a **Mzdové zvýhodnenie za prácu v sobotu **
     - Zamestnancovi patrí za **prácu v sobotu** popri **dosiahnutej mzde za každú hodinu práce v sobotu** mzdové zvýhodnenie najmenej **v sume 50 % minimálnej mzdy** v eurách za hodinu
     - U zamestnávateľa, u ktorého sa **vzhľadom na povahu práce alebo podmienky prevádzky vyžaduje**, aby sa práca **pravidelne vykonávala v sobotu**, **možno dohodnúť nižšiu sumu mzdového zvýhodnenia** ako podľa odseku 1, **najmenej však 45 % minimálnej mzdy** v eurách za hodinu
-- § 🥖 122b Mzdové zvýhodnenie za prácu v nedeľu
+- 🥖 § 122b Mzdové zvýhodnenie za prácu v nedeľu
     - Zamestnancovi patrí za **prácu v nedeľu popri dosiahnutej mzde** za každú hodinu práce v nedeľu **mzdové zvýhodnenie najmenej v sume 100 % minimálnej mzdy** v eurách za hodinu   
     - U zamestnávateľa, u ktorého sa vzhľadom na **povahu práce alebo podmienky prevádzky vyžaduje**, aby sa práca **pravidelne vykonávala v nedeľu**, **možno dohodnúť nižšiu sumu mzdového zvýhodnenia** ako podľa odseku 1, najmenej však **90 % minimálnej mzdy** v eurách za hodinu 
 - 🌃 § 123 Mzdové zvýhodnenie za nočnú prácu  
